@@ -1,0 +1,7 @@
+Model,AUC Score
+Logistic Regression,0.87
+Naive Bayes,0.86
+Random Forest,0.85
+Support Vector Machine,0.85
+K-Nearest Neighbour,0.79
+Decision Tree,0.66
